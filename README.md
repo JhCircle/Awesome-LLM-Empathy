@@ -273,6 +273,21 @@ Thanks to all our amazing contributors!
 </a>
 
 ---
+## 🙌 Citation
+
+If you're interested in empathetic dialogue, you're welcome to take a look at our recent paper — and feel free to cite it if you find it useful:
+
+```bibtex
+@article{yuan2024reflectdiffu,
+  title={ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework},
+  author={Yuan, Jiahao and Di, Zixiang and Cui, Zhiqing and Yang, Guisong and Naseem, Usman},
+  journal={arXiv preprint arXiv:2409.10289},
+  year={2024},
+  note={Accepted to ACL 2025 (Main Conference)}
+}
+```
+
+---
 
 ## 📄 License
 
