@@ -138,18 +138,20 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Sahand Sabour, Chujie Zheng, Minlie Huang* [[abs](https://arxiv.org/abs/2109.05739)], [[code](https://github.com/Sahandfer/CEM)], AAAI 2022
 ---
 #### 🎛️ Controllable & Personalized Empathy
-1. **EmpCRL: Controllable Empathetic Response Generation via In-Context Reinforcement Learning.**  
+1. **Sibyl: Empowering Empathetic Dialogue Generation in Large Language Models via Sensible and Visionary Commonsense Inference.**  
+   *Lanrui Wang, Jiangnan Li, Chenxu Yang, Zheng Lin, Hongyin Tang, Huan Liu, Yanan Cao, Jingang Wang, Weiping Wang.* [[pdf](https://aclanthology.org/2025.coling-main.10.pdf)], ACL 2025
+
+2. **EmpCRL: Controllable Empathetic Response Generation via In-Context Reinforcement Learning.**  
    *Mingxiu Cai, Daling Wang, Shi Feng, Yifei Zhang.* [[pdf](https://aclanthology.org/2024.lrec-main.509/)], IREC 2024
 
-2. **EmpHi: Generating Empathetic Responses with Human-like Intents.**  
+3. **EmpHi: Generating Empathetic Responses with Human-like Intents.**  
    *Mao Yan Chen, Siheng Li, Yujiu Yang.* [[abs](https://arxiv.org/abs/2211.00255)], NAACL 2022
 
-3. **CARE: Causality Reasoning for Empathetic Responses by Conditional Graph Generation.**  
+4. **CARE: Causality Reasoning for Empathetic Responses by Conditional Graph Generation.**  
    *Jiashuo Wang, Yi Cheng, Wenjie Li.* [[abs](https://arxiv.org/abs/2211.00255)], Findings of EMNLP 2022
 
-4. **Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations.**  
+5. **Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations.**  
    *Jun Gao, Yuhan Liu, Haolin Deng, Wei Wang, Yu Cao, Jiachen Du, Ruifeng Xu.* [[pdf](https://aclanthology.org/2021.findings-emnlp.70/)], Findings of EMNLP 2021
-
 
 ---
 ### 🧠 Emotion & Empathy Understanding
