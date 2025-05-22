@@ -58,10 +58,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 ### 💡 Theory & Frameworks
 
 1. **Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective.**  
-   *Yongqiang Li, Chao Wang, Haichao Li, Hongliang Zhan, Hongliang Yu, Lingfeng Qiu, Zhaoxu Li, Jiafei Hong, Xueliang Li.* [[abs](https://arxiv.org/abs/2408.04638)], 2024.08
+   *Yongqiang Li, Chao Wang, Haichao Li, Hongliang Zhan, Hongliang Yu, Lingfeng Qiu, Zhaoxu Li, Jiafei Hong, Xueliang Li.* [[abs](https://arxiv.org/abs/2408.04638)], Arxiv 2024.08
 
 2. **Empathy and the Right to Be an Exception: What LLMs Can and Cannot Do.**  
-   *Ryan M. Doody, Jesse M. S. Harris.* [[abs](https://arxiv.org/abs/2401.14523)], 2024.01
+   *Ryan M. Doody, Jesse M. S. Harris.* [[abs](https://arxiv.org/abs/2401.14523)], Arxiv 2024.01
 
 3. **The Illusion of Empathy: How AI Chatbots Shape Conversation Perception.**  
    *Tingting Liu, Salvatore Giorgi, Ankit Aich, Allison Lahnala, Brenda Curtis, Lyle Ungar, Joao Sedoc.* [[abs](https://arxiv.org/abs/2411.12877)], AAAI 2025
@@ -70,7 +70,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Yu Hou, Hal Daumé III, Rachel Rudinger.* [[pdf](https://aclanthology.org/2025.naacl-long.611/)], NAACL 2025
 
 5. **Empathy Through Multimodality in Conversational Interfaces.**  
-   *Mahyar Abbasian, Iman Azimi, Mohammad Feli, Amir M. Rahmani, Ramesh Jain.* [[abs](https://arxiv.org/abs/2405.04777)], 2024.05
+   *Mahyar Abbasian, Iman Azimi, Mohammad Feli, Amir M. Rahmani, Ramesh Jain.* [[abs](https://arxiv.org/abs/2405.04777)], Arxiv 2024.05
 
 6. **SoulChat: Improving LLMs' Empathy, Listening, and Comfort Abilities.**  
    *Yirong Chen, Xiaofen Xing, Jingkai Lin, Huimin Zheng, Zhenyu Wang, Qi Liu, Xiangmin Xu.* [[abs](https://arxiv.org/abs/2311.00273)], Findings of EMNLP 2023
@@ -93,10 +93,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Xu Wang, Bo Wang, Yihong Tang, Dongming Zhao, Jing Liu, Ruifang He, Yuexian Hou* [[pdf](https://aclanthology.org/2025.coling-main.367/)], COLING 2025
 
 4. **Cause-Aware Empathetic Response Generation via Chain-of-Thought Fine-Tuning.**  
-   *Xinhao Chen, Chong Yang, Man Lan, Li Cai, Yang Chen, Tu Hu, Xinlin Zhuang, Aimin Zhou* [[abs](https://arxiv.org/abs/2408.11599)], 2024.08
+   *Xinhao Chen, Chong Yang, Man Lan, Li Cai, Yang Chen, Tu Hu, Xinlin Zhuang, Aimin Zhou* [[abs](https://arxiv.org/abs/2408.11599)], Arxiv 2024.08
 
 5. **EmPO: Emotion Grounding for Empathetic Response Generation through Preference Optimization.**  
-   *Xufan Qian, Kai Chen, Min Yang, Ruifeng Xu.* [[abs](https://arxiv.org/abs/2406.19071)], 2024.06
+   *Xufan Qian, Kai Chen, Min Yang, Ruifeng Xu.* [[abs](https://arxiv.org/abs/2406.19071)], Arxiv 2024.06
 
 7. **Harnessing the Power of Large Language Models for Empathetic Response Generation.**  
    *Yushan Qian, Wei-Nan Zhang, Ting Liu.* [[abs](https://arxiv.org/abs/2310.05140)], [[code](https://github.com/27182812/LLM4ED)], Findings of EMNLP 2023
@@ -129,7 +129,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Huiying Cao, Yiqun Zhang, Shi Feng, Xiaocui Yang, Daling Wang, Yifei Zhang.* [[pdf](https://aclanthology.org/2025.coling-main.355.pdf)], COLING 2025
 
 3. **The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support.**  
-   *Alessandro De Grandi, Federico Ravenda, Andrea Raballo, Fabio Crestani.* [[abs](https://arxiv.org/abs/2412.20068)], 2024.12
+   *Alessandro De Grandi, Federico Ravenda, Andrea Raballo, Fabio Crestani.* [[abs](https://arxiv.org/abs/2412.20068)], Arxiv 2024.12
 
 4. **Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations.**  
    *Yang Deng, Wenxuan Zhang, Yifei Yuan, Wai Lam* [[abs](https://arxiv.org/abs/2305.10172)], [[code](https://github.com/dengyang17/KEMI)], ACL 2023
@@ -183,10 +183,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung.* [[pdf](https://aclanthology.org/D19-1083/)], [[code](https://github.com/HLTCHKUST/MoEL)], EMNLP 2019
 
 4. **Rational Sensibility: LLM Enhanced Empathetic Response Generation Guided by Self-presentation Theory.**  
-   *Linzhuang Sun, Yao Dong, Nan Xu, Jingxuan Wei, Bihui Yu, Yin Luo.* [[pdf](https://arxiv.org/abs/2312.08702)], 2023.12
+   *Linzhuang Sun, Yao Dong, Nan Xu, Jingxuan Wei, Bihui Yu, Yin Luo.* [[pdf](https://arxiv.org/abs/2312.08702)], Arxiv 2023.12
 
 5. **Chain of empathy: Enhancing empathetic response of large language models based on psychotherapy models.**   
-   *Yoon Kyung Lee, Inju Lee, Minjung Shin, Seoyeon Bae, Sowon Hahn.* [[abs](https://arxiv.org/abs/2311.04915)], 2023.11
+   *Yoon Kyung Lee, Inju Lee, Minjung Shin, Seoyeon Bae, Sowon Hahn.* [[abs](https://arxiv.org/abs/2311.04915)], Arxiv 2023.11
 ---
 ### 📊 Evaluation & Benchmarking
 
@@ -194,16 +194,16 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.* [[abs](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b0049c3f9c53fb06f674ae66c2cf2376-Abstract-Conference.html)], NeurIPS 2024
 
 2. **CuLEmo: Cultural Lenses on Emotion – Benchmarking LLMs for Cross-Cultural Emotion Understanding.**  
-   *Souvik Mandal, Sai Chetan R, Subham Mund, Utkarsh Srivastava, Rishita Tiwari, Anubhav Singh, Mitasur Aich, Sumit Agrawal.* [[abs](https://arxiv.org/abs/2503.10688v1)], 2025.03
+   *Souvik Mandal, Sai Chetan R, Subham Mund, Utkarsh Srivastava, Rishita Tiwari, Anubhav Singh, Mitasur Aich, Sumit Agrawal.* [[abs](https://arxiv.org/abs/2503.10688v1)], Arxiv 2025.03
 
 
 ---
 ### 🌍 Applications & Use Cases
 1. **Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots.**  
-   *Xi Zheng, Zhuoyang Li, Xinning Gui, Yuhan Luo.*  [[pdf](https://dl.acm.org/doi/full/10.1145/3706598.3713453)], 2025.04
+   *Xi Zheng, Zhuoyang Li, Xinning Gui, Yuhan Luo.*  [[pdf](https://dl.acm.org/doi/full/10.1145/3706598.3713453)], Arxiv 2025.04
 
 2. **From Personas to Talks: Revisiting the Impact of Personas on LLM-Synthesized Emotional Support Conversations.**  
-   *Zichang Lin, Ziyang Li, Wenji Mao, Kai Chen, Sijie Cheng.* [[abs](https://arxiv.org/abs/2502.11451v1)], 2025.02
+   *Zichang Lin, Ziyang Li, Wenji Mao, Kai Chen, Sijie Cheng.* [[abs](https://arxiv.org/abs/2502.11451v1)], Arxiv 2025.02
 
 3. **From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation.**  
    *Jiaqiang Wu, Xuandong Huang, Zhouan Zhu, Shangfei Wang.* [[pdf](https://aclanthology.org/2025.coling-main.598/)], COLING 2025
@@ -218,7 +218,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Yu Hou, Hal Daumé III, Rachel Rudinger.* [[abs](https://aclanthology.org/2025.naacl-long.611/)], NAACL 2025
 
 3. **Empathy and the Right to Be an Exception: What LLMs Can and Cannot Do.**  
-   *Ryan M. Doody, Jesse M. S. Harris.* [[abs](https://arxiv.org/abs/2401.14523)], 2024.01
+   *Ryan M. Doody, Jesse M. S. Harris.* [[abs](https://arxiv.org/abs/2401.14523)], Arxiv 2024.01
 
 ---
 ## 🚀 Resources
@@ -243,7 +243,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 ### 📚 Surveys & Overviews
 
 1. **Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective.**  
-   *Yiqun Zhang, Xiaocui Yang, Xingle Xu, Zeran Gao, Yijie Huang, Shiyi Mu, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song, Ge Yu.* [[abs](https://arxiv.org/abs/2408.04638)], 2024.08
+   *Yiqun Zhang, Xiaocui Yang, Xingle Xu, Zeran Gao, Yijie Huang, Shiyi Mu, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song, Ge Yu.* [[abs](https://arxiv.org/abs/2408.04638)], Arxiv 2024.08
 ---
 
 ## 🎉 Contributing
