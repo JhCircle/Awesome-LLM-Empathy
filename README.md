@@ -234,7 +234,6 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 5. **STICKERCONV: Generating Multimodal Empathetic Responses from Scratch .**  
    *Yiqun Zhang, Fanheng Kong, Peidong Wang, Shuang Sun, Lingshuai Wang, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song.* [[abs](https://openreview.net/forum?id=F6h0v1CTpC)],[[code](https://github.com/ZhangYiqun018/StickerConv)], ACL 2024
 
-
 ---
 
 ### 📚 Surveys & Overviews
