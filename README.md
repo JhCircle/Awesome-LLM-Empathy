@@ -193,7 +193,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 1. **Apathetic or Empathetic? Evaluating LLMs' Emotional Alignments with Humans.**  
    *Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.* [[abs](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b0049c3f9c53fb06f674ae66c2cf2376-Abstract-Conference.html)], NeurIPS 2024
 
-2. **CuLEmo: Cultural Lenses on Emotion – Benchmarking LLMs for Cross-Cultural Emotion Understanding.**  
+2. **EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models.**  
+   *Yuyan Chen, Songzhou Yan, Sijia Liu, Yueze Li, Yanghua Xiao.* [[pdf](https://aclanthology.org/2024.findings-acl.128/)], Findings of ACL 2024
+
+3. **CuLEmo: Cultural Lenses on Emotion – Benchmarking LLMs for Cross-Cultural Emotion Understanding.**  
    *Souvik Mandal, Sai Chetan R, Subham Mund, Utkarsh Srivastava, Rishita Tiwari, Anubhav Singh, Mitasur Aich, Sumit Agrawal.* [[abs](https://arxiv.org/abs/2503.10688v1)], Arxiv 2025.03
 
 
