@@ -15,6 +15,7 @@
 > Feel free to [open a pull request](https://github.com/JhCircle/Awesome-LLM-Empathy/pulls) if you find any relevant papers.
 
 - 🎉 `2025-05`: **Our paper [_ReflectDiffu_](https://arxiv.org/abs/2409.10289) was accepted at ACL 2025 Main!**
+   _ReflectDiffu_ boosts empathetic dialogue through psychology-inspired emotion-intent reflection in RL-guided diffusion, achieving state-of-the-art performance across key metrics and outperforming strong baselines including LLMs.
 - 🎉 `2025-05`: **Repository launched to curate a comprehensive list of Empathy-focused LM research.**
 
 ---
