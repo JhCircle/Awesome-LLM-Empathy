@@ -295,12 +295,25 @@ Thanks to all our amazing contributors!
 If you're interested in empathetic dialogue, you're welcome to take a look at our recent paper — and feel free to cite it if you find it useful:
 
 ```bibtex
-@article{yuan2024reflectdiffu,
-  title={ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework},
-  author={Yuan, Jiahao and Di, Zixiang and Cui, Zhiqing and Yang, Guisong and Naseem, Usman},
-  journal={arXiv preprint arXiv:2409.10289},
-  year={2024},
-  note={Accepted to ACL 2025 (Main Conference)}
+@inproceedings{yuan-etal-2025-reflectdiffu,
+    title = "{R}eflect{D}iffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a {RL}-Diffusion Framework",
+    author = "Yuan, Jiahao  and
+      Di, Zixiang  and
+      Cui, Zhiqing  and
+      Yang, Guisong  and
+      Naseem, Usman",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.1235/",
+    pages = "25435--25449",
+    ISBN = "979-8-89176-251-0"
 }
 ```
 
