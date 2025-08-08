@@ -97,7 +97,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 #### 🧪 Generative Approaches for Empathetic Responses
 
 1. **ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework.**  
-   *Jiahao Yuan, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem.* [[abs](https://arxiv.org/abs/2409.10289)], ACL 2025
+   *Jiahao Yuan, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem.* [[pdf](https://aclanthology.org/2025.acl-long.1235/)], ACL 2025
 
 2. **Non-Emotion-Centric Empathetic Dialogue Generation.**  
    *Yuanxiang Huangfu, Peifeng Li, Yaxin Fan, Qiaoming Zhu.* [[pdf](https://aclanthology.org/2025.coling-main.66.pdf)], COLING 2025
