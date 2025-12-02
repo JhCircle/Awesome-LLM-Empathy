@@ -14,6 +14,8 @@
 > 📢 This list is **actively maintained**, and community contributions are always appreciated!  
 > Feel free to [open a pull request](https://github.com/JhCircle/Awesome-LLM-Empathy/pulls) if you find any relevant papers.
 
+- 🎉 `2025-12`: **Our paper [_Kardia-R1_](https://arxiv.org/abs/2512.01282) was released on arxiv, check it now!!**
+
 - 🎉 `2025-05`: **Our paper [_ReflectDiffu_](https://aclanthology.org/2025.acl-long.1235/) was accepted at ACL 2025 Main!**
    _ReflectDiffu_ boosts empathetic dialogue through psychology-inspired emotion-intent reflection in RL-guided diffusion, achieving state-of-the-art performance across key metrics and outperforming strong baselines including LLMs. 
     <details>
@@ -96,19 +98,22 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 #### 🧪 Generative Approaches for Empathetic Responses
 
-1. **ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework.**  
+1. **Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning**
+   **Jiahao Yuan, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, Yucheng Zhou, Usman Naseem.**[[abs](https://arxiv.org/abs/2512.01282)],[[code](https://github.com/JhCircle/Kardia-R1)], Arxiv 2025
+  
+2. **ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework.**  
    *Jiahao Yuan, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem.* [[pdf](https://aclanthology.org/2025.acl-long.1235/)], ACL 2025
 
-2. **Non-Emotion-Centric Empathetic Dialogue Generation.**  
+3. **Non-Emotion-Centric Empathetic Dialogue Generation.**  
    *Yuanxiang Huangfu, Peifeng Li, Yaxin Fan, Qiaoming Zhu.* [[pdf](https://aclanthology.org/2025.coling-main.66.pdf)], COLING 2025
 
-3. **ECC: Synergizing Emotion, Cause and Commonsense for Empathetic Dialogue Generation.**  
+4. **ECC: Synergizing Emotion, Cause and Commonsense for Empathetic Dialogue Generation.**  
    *Xu Wang, Bo Wang, Yihong Tang, Dongming Zhao, Jing Liu, Ruifang He, Yuexian Hou* [[pdf](https://aclanthology.org/2025.coling-main.367/)], COLING 2025
 
-4. **Cause-Aware Empathetic Response Generation via Chain-of-Thought Fine-Tuning.**  
+5. **Cause-Aware Empathetic Response Generation via Chain-of-Thought Fine-Tuning.**  
    *Xinhao Chen, Chong Yang, Man Lan, Li Cai, Yang Chen, Tu Hu, Xinlin Zhuang, Aimin Zhou* [[abs](https://arxiv.org/abs/2408.11599)], Arxiv 2024.08
 
-5. **EmPO: Emotion Grounding for Empathetic Response Generation through Preference Optimization.**  
+6. **EmPO: Emotion Grounding for Empathetic Response Generation through Preference Optimization.**  
    *Xufan Qian, Kai Chen, Min Yang, Ruifeng Xu.* [[abs](https://arxiv.org/abs/2406.19071)], Arxiv 2024.06
 
 7. **Harnessing the Power of Large Language Models for Empathetic Response Generation.**  
@@ -253,6 +258,9 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 5. **STICKERCONV: Generating Multimodal Empathetic Responses from Scratch .**  
    *Yiqun Zhang, Fanheng Kong, Peidong Wang, Shuang Sun, Lingshuai Wang, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song.* [[abs](https://openreview.net/forum?id=F6h0v1CTpC)],[[code](https://github.com/ZhangYiqun018/StickerConv)], ACL 2024
+
+6. **Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning**
+   **Jiahao Yuan, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, Yucheng Zhou, Usman Naseem.**[[abs](https://arxiv.org/abs/2512.01282)],[[code](https://github.com/JhCircle/Kardia-R1)], Arxiv 2025
 
 ---
 
