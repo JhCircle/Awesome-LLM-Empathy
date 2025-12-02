@@ -98,7 +98,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 #### 🧪 Generative Approaches for Empathetic Responses
 
-1. **Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning** 
+1. **Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning**  
    *Jiahao Yuan, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, Yucheng Zhou, Usman Naseem.*[[abs](https://arxiv.org/abs/2512.01282)],[[code](https://github.com/JhCircle/Kardia-R1)], Arxiv 2025
   
 2. **ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework.**  
@@ -259,7 +259,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 5. **STICKERCONV: Generating Multimodal Empathetic Responses from Scratch .**  
    *Yiqun Zhang, Fanheng Kong, Peidong Wang, Shuang Sun, Lingshuai Wang, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song.* [[abs](https://openreview.net/forum?id=F6h0v1CTpC)],[[code](https://github.com/ZhangYiqun018/StickerConv)], ACL 2024
 
-6. **Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning** 
+6. **Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning**  
    *Jiahao Yuan, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, Yucheng Zhou, Usman Naseem.*[[abs](https://arxiv.org/abs/2512.01282)],[[code](https://github.com/JhCircle/Kardia-R1)], Arxiv 2025
 
 ---
