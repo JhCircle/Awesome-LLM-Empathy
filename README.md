@@ -310,6 +310,13 @@ If you're interested in empathetic dialogue, you're welcome to take a look at ou
     pages = "25435--25449",
     year = "2025"
 }
+
+@article{yuan2025kardia,
+  title={Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning},
+  author={Yuan, Jiahao and Cui, Zhiqing and Wang, Hanqing and Gao, Yuansheng and Zhou, Yucheng and Naseem, Usman},
+  journal={arXiv preprint arXiv:2512.01282},
+  year={2025}
+}
 ```
 
 ---
