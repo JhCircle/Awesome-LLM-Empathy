@@ -14,8 +14,9 @@
 > 📢 This list is **actively maintained**, and community contributions are always appreciated!  
 > Feel free to [open a pull request](https://github.com/JhCircle/Awesome-LLM-Empathy/pulls) if you find any relevant papers.
 
-- 🎉 `2025-12`: **Our paper [_Kardia-R1_](https://arxiv.org/abs/2512.01282) was released on arxiv, check it now!!**
-
+- 🎉 `2025-12`: **Our paper [_Kardia-R1_](https://arxiv.org/abs/2512.01282) was released on arxiv, check it now!!** 
+  > - 🔧 Code: https://github.com/JhCircle/Kardia-R1
+  > - 📊 Dataset: https://huggingface.co/datasets/Jhcircle/KadiaBench
 - 🎉 `2025-05`: **Our paper [_ReflectDiffu_](https://aclanthology.org/2025.acl-long.1235/) was accepted at ACL 2025 Main!**
    _ReflectDiffu_ boosts empathetic dialogue through psychology-inspired emotion-intent reflection in RL-guided diffusion, achieving state-of-the-art performance across key metrics and outperforming strong baselines including LLMs. 
     <details>
