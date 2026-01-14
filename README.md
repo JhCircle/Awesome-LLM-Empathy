@@ -13,7 +13,7 @@
 
 > 📢 This list is **actively maintained**, and community contributions are always appreciated!  
 > Feel free to [open a pull request](https://github.com/JhCircle/Awesome-LLM-Empathy/pulls) if you find any relevant papers.
-
+- 🎉 `2026-1`: **Excited to share that our work, [_Kardia-R1_](https://arxiv.org/abs/2512.01282), has been accepted at WWW 2026!** 
 - 🎉 `2025-12`: **Our paper [_Kardia-R1_](https://arxiv.org/abs/2512.01282) was released on arxiv, check it now!!** 
   > - 🔧 Code: https://github.com/JhCircle/Kardia-R1
   > - 📊 Dataset: https://huggingface.co/datasets/Jhcircle/KadiaBench
