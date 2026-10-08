@@ -7,6 +7,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
 > 🧭 Exploring empathetic AI? We hope this collection proves useful in your journey. If you'd like to support the project, feel free to ⭐️ the repo and share it with your peers. Contributions are warmly welcome!
 
+> Feel free to reach out via email at jamse_yuan@163.com 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
+
+
 ---
 
 ## 🔥 News
